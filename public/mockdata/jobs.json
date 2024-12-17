@@ -1,0 +1,104 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "description": "Build and maintain user-facing features for a modern web application using React, Redux, and Tailwind CSS.",
+      "company": "TechCorp",
+      "location": "New York, NY",
+      "salary": "80,000 USD/year",
+      "requirements": "Proficient in HTML, CSS, JavaScript, React, and version control with Git.",
+      "type": "Full-time"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "description": "Develop server-side logic, databases, and APIs for high-performance applications.",
+      "company": "DevSolutions",
+      "location": "San Francisco, CA",
+      "salary": "95,000 USD/year",
+      "requirements": "Strong knowledge of Node.js, Express, MongoDB, and RESTful APIs.",
+      "type": "Full-time"
+    },
+    {
+      "id": 3,
+      "title": "UX/UI Designer",
+      "description": "Design intuitive and engaging user interfaces for web and mobile applications.",
+      "company": "Creative Studios",
+      "location": "Los Angeles, CA",
+      "salary": "70,000 USD/year",
+      "requirements": "Experience with design tools like Figma, Sketch, and Adobe XD.",
+      "type": "Contract"
+    },
+    {
+      "id": 4,
+      "title": "Product Manager",
+      "description": "Lead cross-functional teams to develop and launch new products and features.",
+      "company": "Innovative Solutions",
+      "location": "Chicago, IL",
+      "salary": "110,000 USD/year",
+      "requirements": "3+ years experience in product management, agile methodologies.",
+      "type": "Full-time"
+    },
+    {
+      "id": 5,
+      "title": "Marketing Manager",
+      "description": "Oversee the marketing strategies for digital and traditional channels.",
+      "company": "MarketPro",
+      "location": "Austin, TX",
+      "salary": "75,000 USD/year",
+      "requirements": "Proven track record in digital marketing, SEO, and social media campaigns.",
+      "type": "Full-time"
+    },
+    {
+      "id": 6,
+      "title": "Data Scientist",
+      "description": "Analyze complex datasets to provide actionable insights and recommendations.",
+      "company": "DataWise",
+      "location": "Seattle, WA",
+      "salary": "120,000 USD/year",
+      "requirements": "Expert in Python, R, SQL, and machine learning algorithms.",
+      "type": "Full-time"
+    },
+    {
+      "id": 7,
+      "title": "DevOps Engineer",
+      "description": "Work on automation, cloud infrastructure, and CI/CD pipelines to improve system reliability.",
+      "company": "CloudTech",
+      "location": "Denver, CO",
+      "salary": "100,000 USD/year",
+      "requirements": "Experience with AWS, Docker, Kubernetes, Jenkins, and Terraform.",
+      "type": "Full-time"
+    },
+    {
+      "id": 8,
+      "title": "Full Stack Developer",
+      "description": "Develop and manage both front-end and back-end of web applications.",
+      "company": "CodeFusion",
+      "location": "Boston, MA",
+      "salary": "90,000 USD/year",
+      "requirements": "Proficient in JavaScript, Node.js, React, and SQL databases.",
+      "type": "Full-time"
+    },
+    {
+      "id": 9,
+      "title": "QA Engineer",
+      "description": "Ensure the quality of software products through manual and automated testing.",
+      "company": "TestPro",
+      "location": "San Diego, CA",
+      "salary": "70,000 USD/year",
+      "requirements": "Experience in testing tools like Selenium, JUnit, and automated testing frameworks.",
+      "type": "Full-time"
+    },
+    {
+      "id": 10,
+      "title": "Content Writer",
+      "description": "Write and edit high-quality content for blogs, websites, and digital marketing campaigns.",
+      "company": "ContentHub",
+      "location": "Remote",
+      "salary": "50,000 USD/year",
+      "requirements": "Strong writing, editing, and research skills. Experience in SEO writing.",
+      "type": "Part-time"
+    }
+  ]
+}
